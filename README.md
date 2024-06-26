@@ -7,10 +7,10 @@
 Link to Scribe for a walk through! : (https://scribehow.com/shared/Organizing_Notes_with_Labels_in_Note-taking_App__2IBJ--neTYStAmkOqyvyrw)
 
 
-Welcome to Scribble, created with ReactJS and Firebase.
+Welcome to Scribble, which was created with ReactJS and Firebase.
 =======
-Wecome to scribble-pad, created with ReactJS and Firebase.
->>>>>>> 9ab112d94c539d76de73ca8ce995fb9183ffccde
+Welcome to scribble-pad, created with ReactJS and Firebase
+
 
 
 ## Key Features
