@@ -19,7 +19,7 @@ function App() {
     },[setUser]);
 
     return unsubscribe;
-  }, []);
+  }, [setUser]);
 
   return (
     <div className="font-poppins font-normal tracking-wide">
