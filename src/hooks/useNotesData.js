@@ -20,7 +20,7 @@ export default function useNotesData() {
     });
 
     return unsubscribe;
-  }, []);
+  }, [q]);
 
   const allNotes = notes;
 

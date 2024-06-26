@@ -2,7 +2,7 @@
 
 ![img](./src//assets//images//Logo.jpg)
 
-Wecome to Scribble, created with ReactJS and Firebase.
+Welcome to Scribble, created with ReactJS and Firebase.
 
 
 ## Key Features
@@ -34,7 +34,7 @@ Wecome to Scribble, created with ReactJS and Firebase.
 git clone https://github.com/sneharatnani/notewind.git
 
 # changing directory
-cd notewind
+cd scribbler
 
 # installing dependencies
 npm install
@@ -76,4 +76,4 @@ npm run test
 
 ## License
 
-Notewind is [MIT licensed](./LICENSE).
+Scribble is [MIT licensed](./LICENSE).

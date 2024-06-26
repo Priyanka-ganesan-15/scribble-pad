@@ -1,6 +1,6 @@
 {
-  "short_name": "NoteWind",
-  "name": "NoteWind : A note taking app",
+  "short_name": "scribbler",
+  "name": "scribbler : A note taking app",
   "icons": [
     {
       "src": "favicon.ico",
