@@ -28,7 +28,7 @@ export default function NewNote() {
       createNewNote();
       setIsOpen(false);
     }
-  }, [newNote]);
+  }, [newNote, createNewNote]);
 
   // toast
   const { setShow, setMessage } = useContext(ToastContext);
@@ -53,6 +53,7 @@ export default function NewNote() {
     setIsOpen(false);
   }
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   function createNewNote() {
     if (newNote.body !== "" || newNote.title !== "") {
       addNewNote(newNote);

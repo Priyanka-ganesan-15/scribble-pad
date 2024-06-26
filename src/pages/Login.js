@@ -6,7 +6,7 @@ import "./Login.css";
 
 export default function Login() {
   const { logInUser } = useContext(UserContext);
-  const [showText, setShowText] = useState(false);
+  const [setShowText] = useState(false);
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
 
@@ -17,7 +17,7 @@ export default function Login() {
     }, 500); // Adjust timing as needed
 
     return () => clearTimeout(timer);
-  }, []);
+  }, [setShowText]);
 
   const currentYear = new Date().getFullYear();
 
