@@ -1,0 +1,12 @@
+/* Profile.css */
+.menu-button {
+  @apply max-w-xs bg-white flex items-center text-sm rounded-full focus:outline-none hover:ring-2 hover:ring-offset-2 hover:ring-sky-200;
+}
+
+.menu-items {
+  @apply origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none;
+}
+
+.menu-item {
+  @apply cursor-pointer px-4 py-2 text-sm text-gray-700 hover:bg-gray-100;
+}

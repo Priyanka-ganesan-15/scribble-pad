@@ -1,0 +1,168 @@
+/* Center the login tile vertically and horizontally */
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #dadada;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 890px;
+  height: 590px;
+  background: rgba(255, 255, 255);
+  border: 1px solid white;
+  box-shadow: 12px 20px 60px rgba(0, 0, 0, 0.);
+  backdrop-filter: blur(6px);
+  border-radius: 17px;
+  text-align: center;
+  transition: all 0.5s;
+  user-select: none;
+  color: black;
+}
+
+.card:hover {
+  border: 1px solid #d2d7df;
+  transform: scale(1.05);
+}
+
+.card:active {
+  transform: scale(0.95) rotateZ(1.7deg);
+}
+
+.card-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.Image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 17px 0 0 17px;
+}
+
+.text-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: black;
+  background-color: black;
+  border-style: solid;
+  width: 300px;
+  height: 80px;
+  border-width: 2px;
+  border-color: rgba(210, 215, 223, 0.333);
+  border-radius: 40px;
+  padding: 16px 24px 16px 28px;
+  transform: translate(0px, 0px) rotate(0deg);
+  transition: 0.2s;
+  
+}
+
+.divider {
+  width: 80%;
+  margin: 10px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+.Welcome-Text {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.sign-in {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: white;
+  background-color: black;
+  border-style: solid;
+  width: 300px;
+  height: 80px;
+  border-width: 2px;
+  border-color: rgba(210, 215, 223, 0.333);
+  border-radius: 40px;
+  padding: 16px 24px 16px 28px;
+  transform: translate(0px, 0px) rotate(0deg);
+  transition: 0.2s;
+  box-shadow: -4px -2px 16px 0px #000000, 4px 2px 16px 0px rgb(95 157 231 / 48%);
+}
+
+.sign-in:hover {
+  color: white;
+  background-color: black;
+  box-shadow: -2px -1px 8px 0px #6e7c72, 2px 1px 8px 0px rgb(95 157 231 / 48%);
+}
+
+.sign-in:active {
+  box-shadow: none;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #000;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+
+footer a img {
+  margin-left: 5px;
+  width: 20px;
+  height: 20px;
+}
+
