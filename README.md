@@ -1,13 +1,10 @@
-# NoteWind
-
-![img](./src//assets//images//logo.jpg)
-
+# Scribbler
 <img width="1438" alt="image" src="https://github.com/Priyanka-ganesan-15/scribble-pad/assets/77360232/48210383-7756-4479-8466-ec5aa544343d">
 <img width="1438" alt="image" src="https://github.com/Priyanka-ganesan-15/scribble-pad/assets/77360232/0715019d-94c3-4520-bba3-cab719ade585">
 
 
 
-Link to Scribe : (https://scribehow.com/shared/Organizing_Notes_with_Labels_in_Note-taking_App__2IBJ--neTYStAmkOqyvyrw)
+Link to Scribe for a walk through! : (https://scribehow.com/shared/Organizing_Notes_with_Labels_in_Note-taking_App__2IBJ--neTYStAmkOqyvyrw)
 
 <<<<<<< HEAD
 Welcome to Scribble, created with ReactJS and Firebase.
