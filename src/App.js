@@ -16,7 +16,7 @@ function App() {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       setUser(currentUser);
       setLoading(false);
-    });
+    },[setUser]);
 
     return unsubscribe;
   }, []);
