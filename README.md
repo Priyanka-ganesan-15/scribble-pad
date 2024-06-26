@@ -2,7 +2,7 @@
 
 ![img](./src//assets//images//Logo.jpg)
 
-Wecome to Scribble, created with ReactJS and Firebase.
+Wecome to scribble-pad, created with ReactJS and Firebase.
 
 
 ## Key Features
@@ -31,7 +31,7 @@ Wecome to Scribble, created with ReactJS and Firebase.
 
 ```bash
 # clone repo
-git clone https://github.com/sneharatnani/notewind.git
+git clone https://github.com/Priyanka-ganesan-15/scribble-pad.git
 
 # changing directory
 cd notewind
@@ -76,4 +76,4 @@ npm run test
 
 ## License
 
-Notewind is [MIT licensed](./LICENSE).
+Scribble is [MIT licensed](./LICENSE).
