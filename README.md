@@ -1,8 +1,12 @@
 # NoteWind
 
-![img](./src//assets//images//Logo.jpg)
+![img](./src//assets//images//logo.jpg)
 
+<<<<<<< HEAD
 Welcome to Scribble, created with ReactJS and Firebase.
+=======
+Wecome to scribble-pad, created with ReactJS and Firebase.
+>>>>>>> 9ab112d94c539d76de73ca8ce995fb9183ffccde
 
 
 ## Key Features
@@ -31,7 +35,7 @@ Welcome to Scribble, created with ReactJS and Firebase.
 
 ```bash
 # clone repo
-git clone https://github.com/sneharatnani/notewind.git
+git clone https://github.com/Priyanka-ganesan-15/scribble-pad.git
 
 # changing directory
 cd scribbler
