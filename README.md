@@ -1,6 +1,6 @@
 # NoteWind
 
-![img](./src//assets//images//Logo.jpg)
+![img](./src//assets//images//logo.jpg)
 
 Wecome to scribble-pad, created with ReactJS and Firebase.
 
