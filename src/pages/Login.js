@@ -1,7 +1,7 @@
 import { UserContext } from "../context/userContext.js";
 import { useContext, useEffect, useState } from "react";
 import github from "../assets/icons/github.svg";
-import imageSrc from "../assets/images/Login-image.jpeg"; // Add the path to your image
+import imageSrc from "../assets/images/Login-image.jpg"; // Add the path to your image
 import "./Login.css";
 
 export default function Login() {
