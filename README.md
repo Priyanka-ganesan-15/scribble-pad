@@ -1,6 +1,6 @@
 # NoteWind
 
-![img](./src//assets//images//Logo.jpeg)
+![img](./src//assets//images//Logo.jpg)
 
 Wecome to Scribble, created with ReactJS and Firebase.
 
